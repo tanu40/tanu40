@@ -36,23 +36,6 @@ I have hands-on experience with SIEM tools, incident response, and vulnerability
 
 ---
 
-## 📂 Projects
-
-### 🥗 Food Fashion – Recipe Website
-
-* Full-stack web application with **admin login**
-* Admin can upload & delete recipe videos
-* Tech stack: PHP, Bootstrap, JavaScript, MySQL
-  🔗 Repo: [https://github.com/tanu40/Food_fashion](https://github.com/tanu40/Food_fashion)
-
-### 📊 Income Evaluation & Classification
-
-* Predicts whether income exceeds ₹50,000 annually
-* ML model (Logistic Regression) trained on modified UCI Adult dataset
-* Deployed using **Django** with user input form
-  🔗 Repo: [https://github.com/tanu40/Income-evaluation-using-machine-learning](https://github.com/tanu40/Income-evaluation-using-machine-learning)
-
----
 
 ## 📜 Certifications & Internships
 
