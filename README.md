@@ -27,6 +27,7 @@ I have hands-on experience with SIEM tools, incident response, and vulnerability
 * Network Scanning & Traffic Analysis
 * Tools: **Kali Linux, Wireshark, Burp Suite, Nmap**
 * Basics of Digital Forensics
+* Log analysis, network traffic analysis
 
 ###  Development
 
@@ -66,7 +67,7 @@ I have hands-on experience with SIEM tools, incident response, and vulnerability
 ## 📫 Connect With Me
 
 * 🔗 LinkedIn: [https://www.linkedin.com/in/tanushka-kumbhar](https://www.linkedin.com/in/tanushka-kumbhar)
-* 📧 Email: [tsk24in7@gmail.com](mailto:tsk24in7@gmail.com)
+* 📧 Email: [kumbhartanushka40@gmail.com](mailto:kumbhartanushka40@gmail.com)
 
 ---
 
