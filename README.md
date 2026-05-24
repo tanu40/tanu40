@@ -1,6 +1,6 @@
  Hi, I’m Tanushka Kumbhar
 
-Final-year B.Tech Computer Science student**
+Final-year B.Tech Computer Science student
 Cybersecurity enthusiast | Aspiring SOC Analyst (Entry-Level)**
 Actively seeking opportunities to learn, contribute, and grow in the cybersecurity domain
 
@@ -58,7 +58,7 @@ I have hands-on experience with SIEM tools, incident response, and vulnerability
 ## 🎓 Education
 
 * **B.Tech in Computer Science** (Final Year)
-  GPA: 7.5 / 10
+  GPA: 8.3 / 10
 * Class 12 (HSC): 65%
 * Class 10 (SSC): 87%
 
